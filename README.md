@@ -13,28 +13,35 @@ License
 
 
 
+
 **Project Overview**
 
 This analysis aims to explore trends, outcomes, and insights from clinical trials in the field of cardiovascular diseases. The project focuses on various aspects such as trial phase, intervention types, locations, and patient demographics, with the goal of identifying key factors influencing the success of these trials.
 
+
+
+
 **Dataset Description**
 
-The dataset is collected from ClinicalTrials.gov, which includes information on:
 
-Study IDs: Unique identifiers for each trial.
+1. The dataset is collected from ClinicalTrials.gov, which includes information on:
 
-Trial Phase: Phase I, II, III, or IV.
+2. Study IDs: Unique identifiers for each trial.
 
-Intervention Types: Medications, procedures, or lifestyle interventions.
+3. Trial Phase: Phase I, II, III, or IV.
 
-Outcome Measures: Primary and secondary outcomes for each study.
+4. Intervention Types: Medications, procedures, or lifestyle interventions.
 
-Trial Location: Countries or regions where the trials are conducted.
+5. Outcome Measures: Primary and secondary outcomes for each study.
 
-Patient Demographics: Age, sex, and other relevant factors.
+6. Trial Location: Countries or regions where the trials are conducted.
+
+7. Patient Demographics: Age, sex, and other relevant factors.
+
 
 
 **Methodology**
+
 
 1.  Data Collection: The dataset was obtained from ClinicalTrials.gov using the public API and filtered to focus on cardiovascular diseases.
 
@@ -45,7 +52,9 @@ Patient Demographics: Age, sex, and other relevant factors.
 4.  Analysis: Applying various machine learning and statistical models to analyze the outcomes and identify key predictors of trial success.
 
 
-**Conclusion **
+
+**Conclusion**
+
 
 1. The United States dominates the global clinical trial landscape, with the highest number of trials conducted.
 

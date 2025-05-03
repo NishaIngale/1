@@ -1,4 +1,4 @@
-#**Clinical Trial Data Analysis of Cardiovascular Diseases**
+# Clinical Trial Data Analysis of Cardiovascular Diseases
 
 This project involves the analysis of global clinical trial data related to cardiovascular diseases. The dataset has been sourced from ClinicalTrials.gov, a public registry of clinical studies conducted around the world.
 
@@ -45,7 +45,8 @@ Patient Demographics: Age, sex, and other relevant factors.
 4.  Analysis: Applying various machine learning and statistical models to analyze the outcomes and identify key predictors of trial success.
 
 
-**Conclusion :**
+**Conclusion **
+
 1. The United States dominates the global clinical trial landscape, with the highest number of trials conducted.
 
 2. Average enrollment varies by country, with some countries exhibiting significantly larger sample sizes—potentially reflecting larger healthcare infrastructure or regulatory flexibility.
